@@ -51,6 +51,14 @@ Statistics in kcal/mol.
 | r²SCAN | 12.86 | 12.86 | 15.24 | 8.32 |
 | r²SCAN-D4(EEQ)-ATM | –1.82 | 1.93 | 2.60 | 1.88 |
 
+### LMGB35
+
+Statistics in pm.
+
+| method | MD | MAD | RMSD | SD |
+| --- | --- | --- | --- | --- |
+| r²SCAN-D4(EEQ)-ATM | –0.12 | 0.68 | 1.01 | 1.02 |
+
 ### HMGB11
 
 Statistics in pm.
@@ -59,10 +67,18 @@ Statistics in pm.
 | --- | --- | --- | --- | --- |
 | r²SCAN-D4(EEQ)-ATM | 0.51 | 1.17 | 1.34 | 1.29 |
 
-### LMGB35
+### TMC32
 
 Statistics in pm.
 
 | method | MD | MAD | RMSD | SD |
 | --- | --- | --- | --- | --- |
-| r²SCAN-D4(EEQ)-ATM | –0.12 | 0.68 | 1.01 | 1.02 |
+| r²SCAN-D4(EEQ)-ATM | –1.57 | 1.89 | 2.35 | 1.77 |
+
+### ROT34
+
+Statistics in rcm.
+
+| method | MD | MAD | RMSD | SD |
+| --- | --- | --- | --- | --- |
+| r²SCAN-D4(EEQ)-ATM | –3.22 | 4.64 | 5.88 | 4.99 |
