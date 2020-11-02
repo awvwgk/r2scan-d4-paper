@@ -52,8 +52,10 @@ Statistics in kcal/mol.
 
 | method | MD | MAD | RMSD | SD |
 | --- | ---:| ---:| ---:| ---:|
-| r²SCAN/def2-QZVP | 9.09 | 9.09 | 10.53 | 5.75 |
-| r²SCAN-D4-ATM/def2-QZVP | 0.35 | 1.58 | 1.70 | 1.79 |
+| r²SCAN/def2-QZVP | 9.26 | 9.26 | 10.36 | 5.01 |
+| r²SCAN-D4-ATM/def2-QZVP | 0.51 | 0.86 | 1.00 | 0.93 |
+| rSCAN/def2-QZVP | 10.33 | 10.33 | 11.58 | 5.65 |
+| rSCAN-D4-ATM/def2-QZVP | 0.40 | 0.66 | 0.78 | 0.72 |
 
 ### S30L
 
@@ -65,6 +67,17 @@ Statistics in kcal/mol.
 | r²SCAN-D4-ATM/def2-QZVP | –1.82 | 1.93 | 2.60 | 1.88 |
 | rSCAN/def2-QZVP | 14.63 | 14.63 | 17.41 | 9.61 |
 | rSCAN-D4-ATM/def2-QZVP | –2.04 | 2.09 | 2.75 | 1.89 |
+
+### X40x10
+
+Statistics in kcal/mol.
+
+| method | MD | MAD | RMSD | SD |
+| --- | ---:| ---:| ---:| ---:|
+| r²SCAN/def2-QZVP | 0.29 | 0.61 | 0.97 | 0.93 |
+| r²SCAN-D4-ATM/def2-QZVP | –0.16 | 0.36 | 0.67 | 0.65 |
+| SCAN/def2-QZVP | –0.03 | 0.57 | 0.91 | 0.91 |
+| SCAN-D4-ATM/def2-QZVP | –0.34 | 0.46 | 0.84 | 0.77 |
 
 ### LMGB35
 
