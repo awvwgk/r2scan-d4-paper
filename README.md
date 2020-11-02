@@ -56,6 +56,8 @@ Statistics in kcal/mol.
 | r²SCAN-D4-ATM/def2-QZVP | 0.51 | 0.86 | 1.00 | 0.93 |
 | rSCAN/def2-QZVP | 10.33 | 10.33 | 11.58 | 5.65 |
 | rSCAN-D4-ATM/def2-QZVP | 0.40 | 0.66 | 0.78 | 0.72 |
+| SCAN/def2-QZVP | 8.02 | 8.02 | 9.07 | 4.54 |
+| SCAN-D4-ATM/def2-QZVP | 1.13 | 1.29 | 1.59 | 1.21 |
 
 ### S30L
 
