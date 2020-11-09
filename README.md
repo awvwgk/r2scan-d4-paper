@@ -80,6 +80,9 @@ Statistics in kcal/mol.
 | r²SCAN-D4-ATM/def2-QZVP | –0.16 | 0.36 | 0.67 | 0.65 |
 | SCAN/def2-QZVP | –0.03 | 0.57 | 0.91 | 0.91 |
 | SCAN-D4-ATM/def2-QZVP | –0.34 | 0.46 | 0.84 | 0.77 |
+| PBE0-D4-ATM/def2-QZVP | –0.22 | 0.38 | 0.67 | 0.63 |
+| TPSS-D4-ATM/def2-QZVP | –0.20 | 0.38 | 0.61 | 0.57 |
+| PBE-D4-ATM/def2-QZVP | –0.45 | 0.48 | 0.80 | 0.72 |
 
 ### LMGB35
 
