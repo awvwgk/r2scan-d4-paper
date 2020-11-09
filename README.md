@@ -19,8 +19,8 @@ Statistics in kcal/mol.
 
 | method | WTMAD-2 | basic | react. | barriers | inter. NCI | intra. NCI | NCI |
 | --- | ---:| ---:| ---:| ---:| ---:| ---:| ---:|
-| r²SCAN/def2-QZVP | 9.00 | 5.50 | 9.62 | 13.94 | 11.41 | 8.36 | 9.92 |
-| r²SCAN-D4-ATM/def2-QZVP | 7.71 | 6.00 | 8.26 | 14.40 | 7.53 | 5.74 | 6.65 |
+| r²SCAN/def2-QZVP | 8.83 | 5.05 | 9.62 | 13.84 | 11.35 | 8.36 | 9.89
+| r²SCAN-D4-ATM/def2-QZVP | 7.54 | 5.55 | 8.26 | 14.29 | 7.46 | 5.74 | 6.62
 | rSCAN/def2-QZVP | 9.79 | 6.16 | 9.55 | 15.19 | 12.27 | 9.69 | 11.01 |
 | rSCAN-D4-ATM/def2-QZVP | 8.25 | 6.72 | 8.95 | 15.70 | 7.39 | 6.09 | 6.75 |
 | SCAN/def2-QZVP | 9.35 | 5.95 | 9.25 | 16.76 | 11.02 | 8.27 | 9.68 |
@@ -28,12 +28,13 @@ Statistics in kcal/mol.
 
 | method | WTMAD-1 | basic | react. | barriers | inter. NCI | intra. NCI | NCI |
 | --- | ---:| ---:| ---:| ---:| ---:| ---:| ---:|
-| r²SCAN/def2-QZVP | 5.51 | 4.86 | 5.30 | 6.05 | 6.54 | 5.25 | 5.99 |
-| r²SCAN-D4-ATM/def2-QZVP | 4.58 | 4.92 | 4.85 | 6.22 | 3.84 | 3.33 | 3.62 |
+| r²SCAN/def2-QZVP | 5.36 | 4.40 | 5.30 | 5.98 | 6.58 | 5.25 | 6.01
+| r²SCAN-D4-ATM/def2-QZVP | 4.43 | 4.46 | 4.85 | 6.15 | 3.87 | 3.33 | 3.64
 | rSCAN/def2-QZVP | 6.04 | 5.55 | 5.36 | 6.40 | 7.13 | 5.99 | 6.64 |
 | rSCAN-D4-ATM/def2-QZVP | 4.95 | 5.64 | 5.06 | 6.60 | 4.06 | 3.37 | 3.76 |
 | SCAN/def2-QZVP | 5.59 | 5.36 | 4.91 | 6.52 | 6.38 | 4.94 | 5.76 |
 | SCAN-D4-ATM/def2-QZVP | 4.99 | 5.49 | 4.67 | 6.61 | 4.66 | 3.52 | 4.17 |
+
 
 ### MOR41
 
