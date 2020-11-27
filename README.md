@@ -116,3 +116,14 @@ Statistics in MHz.
 | method | MD | MAD | RMSD | SD |
 | --- | ---:| ---:| ---:| ---:|
 | r²SCAN-D4-ATM/def2-QZVP | –3.22 | 4.64 | 5.88 | 4.99 |
+
+### LB12
+
+Statistics in pm.
+
+| method | MD | MAD | RMSD | SD |
+| --- | ---:| ---:| ---:| ---:|
+| r²SCAN-D4-ATM/def2-QZVP | 1.81 | 3.57 | 5.67 | 5.61 |
+
+
+
