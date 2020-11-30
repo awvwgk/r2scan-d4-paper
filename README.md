@@ -125,5 +125,20 @@ Statistics in pm.
 | --- | ---:| ---:| ---:| ---:|
 | r²SCAN-D4-ATM/def2-QZVP | 1.81 | 3.57 | 5.67 | 5.61 |
 
+### CCse21
+
+Bond lengths. Statistics in pm.
+
+| method | MD | MAD | RMSD | SD |
+| --- | ---:| ---:| ---:| ---:|
+| r²SCAN-D4-ATM/def2-QZVP | 0.03 | 0.38 | 0.56 | 0.57 |
+
+
+Bond angles. Statistics in deg.
+
+| method | MD | MAD | RMSD | SD |
+| --- | ---:| ---:| ---:| ---:|
+| r²SCAN-D4-ATM/def2-QZVP | 0.01 | 0.29 | 0.37 | 0.37 |
+
 
 
