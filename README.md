@@ -1,6 +1,20 @@
 # r²SCAN-D4
 
 
+## Functional Implementation
+
+- r²SCAN-D4 is available in Turbomole 7.5.1 using the `r2scan` functional in the dft data group and the disp4 data group
+```
+$disp4
+$dft
+  functional r2scan
+```
+
+- r²SCAN can be used with [libxc version 5.1.0](https://www.tddft.org/programs/libxc/changes/#510---2021-01-19) as `MGGA_X_R2SCAN` (id=497), `MGGA_C_R2SCAN` (id=498)
+- routines for r²SCAN functional implementation can be found at https://gitlab.com/dhamil/r2scan-subroutines (Fortran), routines for Vasp are included
+- Libraries implementing DFT-D4 can be found at https://github.com/dftd4/dftd4 (Fortran) and https://github.com/dftd4/cpp-d4 (C++)
+
+
 ## Functional parameters
 
 | method | s6 | s8 | s9 | a1 | a2/Bohr |
